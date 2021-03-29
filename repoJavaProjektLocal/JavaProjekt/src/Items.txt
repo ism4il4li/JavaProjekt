@@ -1,0 +1,6 @@
+medicament
+10
+30
+0
+//------------------
+und so weiter
